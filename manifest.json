@@ -1,0 +1,12 @@
+{
+  "display_name": "mzrodyu猫猫的小破烂 - 记忆管理",
+  "loading_order": 1000,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "mzrodyu",
+  "version": "1.0.0",
+  "homePage": "https://github.com/2944461376/mzrodyu-",
+  "auto_update": true
+}
